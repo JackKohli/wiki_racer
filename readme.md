@@ -2,7 +2,7 @@
 ### Behaviour
 Finds the shortest path between two articles on wikipedia navigating through other articles available as links on each article only.
 
-Takes 2 required positional command line arguments, start_url and target_url. 
+Takes 2 required command line arguments, start_url and target_url. 
 
 Prints the shortest path and number of steps involved to the terminal.
 
